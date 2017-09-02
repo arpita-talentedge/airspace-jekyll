@@ -5,7 +5,7 @@ keep_files:
 
 
 # Site settings
-title: TALENTEDGE
+title: "TALENTEDGE"
 subtitle: "Live & interactie digital learning"
 url: "https://www.talentedge.co.in" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
